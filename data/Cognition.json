@@ -1,1 +1,18 @@
-
+{
+    "id": 57600307,
+    "name": "Cognition",
+    "author": "Endlevel",
+    "creators": ["benji8080", "Endlevel"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/XkKlOjww6aQ?si=UeA4d8RsmKNrBWQG",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
