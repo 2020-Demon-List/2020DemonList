@@ -1,1 +1,17 @@
-
+{
+    "id": 58673581,
+    "name": "Kenos",
+    "author": "npesta",
+    "creators": ["ChiefFlurry", "Terron", "Pennutoh", "Krampux", "Bianox", "Noobas", "Eclipsed", "SlimJim", "Splash", "nikroplays", "Lqah", "Endlevel", "Spectex", "Zimnior12", "Salaxium"],
+    "verifier": "npesta",
+    "verification": "https://youtu.be/Bs1kVySdUtI?si=rw2qvkBeAU7lsq2O",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
