@@ -1,1 +1,17 @@
-
+{
+    "id": 63996127,
+    "name": "Cold Sweat",
+    "author": "para",
+    "creators": ["para", "Sminx", "Wulzy"],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/2Y8kBw8YxO8?si=J9I3GB6FWnbwIHWR",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
