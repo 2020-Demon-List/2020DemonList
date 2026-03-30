@@ -1,1 +1,18 @@
-
+{
+    "id": 55624478,
+    "name": "Ragnarok",
+    "author": "knobbelboy",
+    "creators": ["Davphla", "Enlex", "knobbelboy", "Rustam", "Platnuu", "Bianox", "Panman", "Darwin", "ZephiorX", "Xaro", "Ji", "TH04", "Gaero", "Tob24",],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/aGtXqn9HL2o?si=ez9HTKYutHgD-eyb",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
