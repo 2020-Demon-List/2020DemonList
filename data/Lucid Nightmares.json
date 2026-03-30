@@ -1,0 +1,18 @@
+{
+    "id": 52310333,
+    "name": "Lucid Nightmares",
+    "author": "CairoX",
+    "creators": ["CairoX", "DonutTV"],
+    "verifier": "Wooshi",
+    "verification": "https://youtu.be/G7hBE5qWx6M?si=Ik72j-W1e436mM-O",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
