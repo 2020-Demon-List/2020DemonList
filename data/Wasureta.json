@@ -1,1 +1,18 @@
-
+{
+    "id": 46763581,
+    "name": "kowareta",
+    "author": "HelpegasuS⁩",
+    "creators": ["⁨no_mouth⁩", "HelpegasuS⁩", "Splash", "LimeTime313", "Isane", "Deadlox", "El3tr0", "XLSpiral", "augi", "Belonzik"],
+    "verifier": "VaporWubz",
+    "verification": "https://youtu.be/9jkCtNDbDt0?si=7jLrNVq5A-2lq8Wz",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
