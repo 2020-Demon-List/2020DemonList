@@ -1,0 +1,18 @@
+{
+    "id": 54615662,
+    "name": "The Yandere",
+    "author": "Dorami",
+    "creators": ["⁨Mazl⁩", "Dorami", "Mulpan", "Partition", "CastriX", "RoiMousti", "DavJT", "YunHaSeu14", "DanZmeN", "MrLorenzo", "Jghost217", "FarDreamer", "alkali", "Alderite", "Elisione", "Master X", "Bransilver", "Cirtrax", "Spectex", "Osiris GD", "JonathonGD"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/MN6Dra6yAys?si=FGiVnvtYw6PRdx17",
+    "percentToQualify": 100,
+    "password": "300000",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
