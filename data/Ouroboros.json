@@ -1,12 +1,12 @@
 {
-    "id": 52955167,
-    "name": "Deimos",
-    "author": "Endlevel",
-    "creators": ["Andromeda", "Boldstep", "Eggnog", "Hexhammer", "Jihn", "Jo2000", "Metalface221", "Smokes", "WOOGI1411", "Zenith", "Cypher", "TH04", "Gaero", "Tob24"],
-    "verifier": "npesta",
-    "verification": "https://youtu.be/FgxsNzQnF5o?si=GfapIJuWLX6i7nWP",
+    "id": 56703691,
+    "name": "Ouroboros",
+    "author": "ViPriN",
+    "creators": ["Rustam", "Trusta", "ViPriN", "AbstrackDark", "G4lvatron", "Terron", "TheDevon", "Darwin", "ChaSe", "Osiris GD", "Loserchik67", "FerdeFunky", "Disticy"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/hLTnewDC2Hs?si=oDXR0K-RDcUxllxv",
     "percentToQualify": 100,
-    "password": "789123",
+    "password": "072619",
     "records": [
         {
             "user": "Sample_Victor_1",
