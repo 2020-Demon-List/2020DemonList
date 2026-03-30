@@ -1,1 +1,18 @@
-
+{
+    "id": 60740290,
+    "name": "Aquatic Auroras",
+    "author": "Endlevel",
+    "creators": ["⁨LimeTime313⁩", "Endlevel", "El3ctr0"],
+    "verifier": "kyoto",
+    "verification": "https://youtu.be/cD0zZ9OJkBE?si=w-G7XQubnwnzOonG",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
