@@ -1,0 +1,18 @@
+{
+    "id": 52955167,
+    "name": "Deimos",
+    "author": "Endlevel",
+    "creators": ["Andromeda", "Boldstep", "Eggnog", "Hexhammer", "Jihn", "Jo2000", "Metalface221", "Smokes", "WOOGI1411", "Zenith", "Cypher", "TH04", "Gaero", "Tob24"],
+    "verifier": "npesta",
+    "verification": "https://youtu.be/FgxsNzQnF5o?si=GfapIJuWLX6i7nWP",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
