@@ -1,0 +1,18 @@
+{
+    "id": 47237400,
+    "name": "Celestial Force",
+    "author": "MindCap",
+    "creators": ["Hoshikido", "Jihn", "Xyriak", "GaidenHertuny", "HelpegasuS", "Elayad", "MindCap", "Djoxy", "GeometryTom", "MrLorenzo", "JustBasic", "Auntex", "Soulax", "Manheadrambo", "Stormy97", "Wless", "Zafkiel"],
+    "verifier": "supahunt",
+    "verification": "https://youtu.be/bW8JOt8s7CI?si=z78KdeGw4vaHB2zt",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
