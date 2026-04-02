@@ -1,0 +1,18 @@
+{
+    "id": 61366470,
+    "name": "Edge of the Blade",
+    "author": "kiseta",
+    "creators": ["zeroya", "knobbelboy", "Metalface221", "RpgRaketti", "Rustam", "Findexi", "Terron", "Ryder", "Vlacc", "GDSpeed", "Jaipes", "SlimJim", "Juhou", "ChaSe", "Edge", "TehTaciq", "Onnikonna", "Uneskladovae", "Masu"],
+    "verifier": "kiseta",
+    "verification": "https://youtu.be/YhT4_FgeAbk?si=dfScRmAua-gItyeM",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
