@@ -1,0 +1,18 @@
+{
+    "id": 38655495,
+    "name": "Plasma Pulse Finale",
+    "author": "Smokes",
+    "creators": ["⁨Smokes⁩", "Giron"],
+    "verifier": "Smokes",
+    "verification": "https://youtu.be/xqzx9cu6XoA?si=MW8Z5FV2-DXMEk3A",
+    "percentToQualify": 100,
+    "password": "356987",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
