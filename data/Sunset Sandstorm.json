@@ -1,0 +1,18 @@
+{
+    "id": 55547703,
+    "name": "Sunset Sandstorm",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verifier": "crohn44",
+    "verification": "https://youtu.be/5ary4apA0WA?si=2DfIrxePAI13CNxi",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
