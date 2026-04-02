@@ -1,0 +1,18 @@
+{
+    "id": 58825144,
+    "name": "xo",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/vcAdWah55Z4?si=PaU0eAO9go748jZz",
+    "percentToQualify": 100,
+    "password": "000007",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
