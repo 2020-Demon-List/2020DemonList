@@ -1,0 +1,18 @@
+{
+    "id": 49291867,
+    "name": "WOW",
+    "author": "TrusTa",
+    "creators": ["Eggnog", "Marwec", "TrusTa", "Pennutoh", "Disp", "SlimJim", "Splash", "ChaSe"],
+    "verifier": "Kandai",
+    "verification": "https://youtu.be/uLiCEb4QP4E?si=GDrn9cyIyvD9oDDC",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
