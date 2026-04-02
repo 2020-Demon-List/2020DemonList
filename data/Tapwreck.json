@@ -1,0 +1,18 @@
+{
+    "id": 58306889,
+    "name": "Tapwreck",
+    "author": "MrLorenzo",
+    "creators": ["MrLorenzo"],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/w5qI2iukPzI?si=npvx_y6lejDnpF6H",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
