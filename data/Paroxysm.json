@@ -1,0 +1,18 @@
+{
+    "id": 42631377,
+    "name": "Paroxysm",
+    "author": "Lemons",
+    "creators": ["Lemons"],
+    "verifier": "Mix991",
+    "verification": "https://youtu.be/JVlHUROeEnc?si=LgunByKjhLPmAMru",
+    "percentToQualify": 100,
+    "password": "040400",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
