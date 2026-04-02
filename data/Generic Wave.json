@@ -1,0 +1,18 @@
+{
+    "id": 49576382,
+    "name": "Generic Wave",
+    "author": "Pennutoh",
+    "creators": ["Enlex", "Pennutoh", "Cyclic"],
+    "verifier": "Mullsy",
+    "verification": "https://youtu.be/RL-c3PM4uhk?si=W7Uo5DxJ9agGJEsi",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
