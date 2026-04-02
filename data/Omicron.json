@@ -1,0 +1,18 @@
+{
+    "id": 63560498,
+    "name": "Omicron",
+    "author": "Team Proxima",
+    "creators": ["Surv", "Neuxs", "HelpegasuS", "Cosmicsabre", "Splash", "Sparksomega", "Goose", "Cirtrax", "Osiris GD", "GDSkele", "Sequex", "Azasuh", "Kadex", "Zafkiel", "Zipixbox", "NVATIUM", "Zipi", "HugoLa", "Polli", "Genericqueso", "EyeOfTheStorm", "Wesp", "Belonzik", "Peton", "Parallax", "BlasterRobotz", "Elvii", "Vyu", "Esencia", "Dominus", "Kakemancool", "Nashiiii", "Joojmiguel", "Pocke"],
+    "verifier": "Nexus",
+    "verification": "https://youtu.be/tWxZPc1DYMg?si=FcZ0swXpFVUQhpMB",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
