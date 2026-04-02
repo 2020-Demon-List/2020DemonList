@@ -1,0 +1,18 @@
+{
+    "id": 53443974,
+    "name": "Necromancer",
+    "author": "TGI",
+    "creators": ["⁨Riot⁩⁩", "Platnuu⁩", "Stormfly", "NePtunE", "Splash", "Zimnior12", "Sequex", "Deovise", "zHyper"],
+    "verifier": "TGI",
+    "verification": "https://youtu.be/01zvT1u1ObU?si=b_UE_qmt75a0WloX",
+    "percentToQualify": 100,
+    "password": "555555",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
