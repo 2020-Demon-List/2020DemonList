@@ -1,1 +1,18 @@
-
+{
+    "id": 39832454,
+    "name": "Gamma",
+    "author": "MindCap",
+    "creators": ["Ferox242", "HequinoX", "Lithifusion", "Mactanow", "Metalface221", "Pennutoh", "Angryboy", "Lemons", "MindCap", "Djoxy", "MichaelH", "iNighti"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/HTXRWzS2aw8?si=2_biqrRujJAeoKdC",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
