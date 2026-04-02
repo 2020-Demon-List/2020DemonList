@@ -1,0 +1,18 @@
+{
+    "id": 57600307,
+    "name": "ZAPHKIEL",
+    "author": "Darwin",
+    "creators": ["Noctafly", "Darwin"],
+    "verifier": "not Noctafly",
+    "verification": "https://youtu.be/RkW_aKtshMI?si=Glnn3Nd35G0hVZKQ",
+    "percentToQualify": 100,
+    "password": "004250",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
