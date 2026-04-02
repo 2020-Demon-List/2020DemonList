@@ -1,0 +1,18 @@
+{
+    "id": 60740290,
+    "name": "Hyper Paracosm",
+    "author": "iIiViRuZiIi",
+    "creators": ["⁨iIiViRuZiIi⁩⁩", "TheRealSneaky⁩"],
+    "verifier": "MahjongLegend",
+    "verification": "https://youtu.be/zQbU_2To0bg?si=H6THgV2PuGJJpwmn",
+    "percentToQualify": 100,
+    "password": "789123",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
