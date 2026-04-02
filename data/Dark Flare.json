@@ -1,1 +1,18 @@
-
+{
+    "id": 48942548,
+    "name": "Dark Flare",
+    "author": "KeiAs",
+    "creators": ["Cenos", "CrePusCule", "Nisha", "Ticky", "KeiAs", "Estachi", "Mulpan", "Sikatsuka", "Quitora", "ArinGD", "DarkEvan", "DEMN", "Souldwinds", "MDGFroid", "Trolla", "Dominator", "CowMeat", "Moonfox", "Soulsand", "Buddy365", "InterChange", "DarkBoshy", "DreamerZ", "Molds", "Yonaka"],
+    "verifier": "Plusxenon",
+    "verification": "https://youtu.be/Pb8GVDjiiQQ?si=waSlASarypd5_8CZ",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
