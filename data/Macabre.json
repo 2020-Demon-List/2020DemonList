@@ -1,0 +1,18 @@
+{
+    "id": 56782662,
+    "name": "Macabre",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX", "Requiem"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/b2kGqEY8E1Q?si=QQAwr6fSIYwz2yGH",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
